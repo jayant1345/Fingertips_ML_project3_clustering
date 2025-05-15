@@ -92,11 +92,3 @@ Your Name
 Fingertips Public Health Profiles
 
 Scikit-learn documentation for clustering algorithms
-
-Would you like me to:
-
-- Auto-generate a `requirements.txt` from the notebook?
-- Add badges or a preview GIF of the cluster plots?
-- Bundle this in a ZIP file for immediate sharing or upload?
-
-Let me know and I can prepare it for you.
